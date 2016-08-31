@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/loginbg"
+    >
+    <!--android:background="#ff1ec7c5" -->
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/nurse_photo"
+        />
+    
+    <TextView
+        android:id="@+id/name" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="朱美美"
+        android:textColor="#ffffff"
+        android:textSize="26sp" />
+    <RelativeLayout
+        android:id="@+id/rl_call_out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp">
+        <ImageButton
+            android:id="@+id/cancel_call_btn"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="40dp"
+            android:background="@drawable/cancel"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/rl_call_in"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:visibility="gone">
+        <ImageButton
+            android:id="@+id/ok_call_in_btn"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="50dp"
+            android:layout_alignParentRight="true"
+           android:layout_marginRight="80dp"
+            android:background="@drawable/calling"/>
+        <ImageButton
+            android:id="@+id/cancel_call_in_btn"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="90dp"
+            android:background="@drawable/cancel" />
+    </RelativeLayout>
+</LinearLayout>

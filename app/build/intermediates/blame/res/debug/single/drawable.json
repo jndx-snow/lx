@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_left_unchecked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_left_unchecked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_rate_pic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\heart_rate_pic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patient_pic_blue.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\patient_pic_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_left_advice.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radiobutton_left_advice.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_record_button_pressed.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\call_record_button_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_info_button.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\base_info_button.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_shape.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\blue_shape.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body_temperature.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\body_temperature.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_left_checked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_left_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nurse_photo.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\nurse_photo.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_photo.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\head_photo.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_right_main.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radiobutton_right_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_info_btn.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\base_info_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speak.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\speak.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rate_plus.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\rate_plus.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_normal.9.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_delete.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_delete.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_checked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temperature_bg.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\temperature_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_left_unchecked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radio_left_unchecked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\message_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paly_voice.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\paly_voice.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_right_unchecked.jpg",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radio_right_unchecked.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temperature_data.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\temperature_data.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_record.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\call_record.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calling.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\calling.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\note_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_right_btn.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_right_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mmtitle_bg_alpha.9.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulse_rate_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\pulse_rate_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_time.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\add_time.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\labled.jpg",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\labled.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time.jpg",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\time.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_tip.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\down_tip.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_left_pic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_left_pic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_record_btn.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\call_record_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\date.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_rate_bg.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\heart_rate_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reagent.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\reagent.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_three.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\left_three.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gou_pic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\gou_pic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_right_tip.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\head_right_tip.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_login.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\edittext_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downbtn_mid.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\downbtn_mid.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_left_checked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radio_left_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_checkbox.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode_scan_line.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_pressed.9.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_right_checked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_right_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medicine.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\medicine.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_save.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_save.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_focused.9.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\today.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\today.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulse_bg.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\pulse_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searching.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\searching.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temeputrue_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\temeputrue_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_pic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\profile_pic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_edit.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_edit.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_gou.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_gou.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_normal.9.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call1.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\call1.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulse_rate_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\pulse_rate_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_left_main.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radiobutton_left_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_icon.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tocallpage.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\tocallpage.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\sign_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rate_axis.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\rate_axis.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiogroup_main.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radiogroup_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rate_data.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\rate_data.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_long.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\voice_long.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_main_blue.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\check_main_blue.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_menu_normal.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_btn_menu_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uncheck_main.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\uncheck_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scaning.jpg",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\scaning.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downhr.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\downhr.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_tip.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\back_tip.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patient_pic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\patient_pic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_rate.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\heart_rate.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\letter.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\letter.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaking.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\speaking.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_unchecked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_unchecked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulse.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\pulse.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction_right.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\direction_right.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_right_advice.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radiobutton_right_advice.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulse_pic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\pulse_pic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_choose.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_choose.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_focused.9.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_call.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\cancel_call.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_record_button.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\call_record_button.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\note_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temeputrue_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\temeputrue_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note_down.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\note_down.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulse_data.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\pulse_data.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_tip.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\man_tip.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\women_tip.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\women_tip.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_right_unchecked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_right_unchecked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downbtn_right.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\downbtn_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advice_right_image.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\advice_right_image.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_main_green.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\check_main_green.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note_add.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\note_add.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_icon.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\call_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peoplehead.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\peoplehead.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\patient_pic_green.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\patient_pic_green.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inject.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\inject.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downyz.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\downyz.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_right_checked.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\radio_right_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downbw.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\downbw.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_rate_data.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\heart_rate_data.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\message_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downbtn_left.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\downbtn_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbg.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\loginbg.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\sign_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_rate_selected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\heart_rate_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\celling.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\celling.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_rate_unselected.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\heart_rate_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\psd_icon.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\psd_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tempeture_axis.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\tempeture_axis.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memo_btn.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\memo_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.jpg",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\delete.jpg"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note_right.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\note_right.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\head_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temperature.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\temperature.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speak_mic.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\speak_mic.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_ok.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\add_ok.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_pressed.9.png",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\drawable\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    }
+]

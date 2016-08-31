@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Care</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+<string name="memo_data">到病室与病人沟通，进行术中健康宣教，使病人基本了解术中的配合。 换病人服，作好术前准备工作及病历，写好去手术室的时间。 与手术</string>
+</resources>

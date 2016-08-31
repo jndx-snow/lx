@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\workspace\Care\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        jar="D:\Android\workspace\Care\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\Android\workspace\Care\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_dd76e436dbcbd1f98599c41616e2c5ce5e2017d0.jar" />
+    </item>
+    <item
+        jar="D:\Android\workspace\Care\app\libs\core.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="D:\Android\workspace\Care\app\build\intermediates\pre-dexed\debug\core_afee2791af68ec4182577d20ea0b4d0c1de14777.jar" />
+    </item>
+    <item
+        jar="D:\Android\workspace\Care\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android\workspace\Care\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_f43cd62f7d54e91ed9bac1d33def4fad0e092e41.jar" />
+    </item>
+
+</items>

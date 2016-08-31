@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp" >
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:background="#1ec7c5"
+        android:orientation="horizontal"
+        android:tag="back" >
+
+        <Button
+            android:id="@+id/call_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:background="#00a6ac"
+            android:text="编辑"
+            android:textColor="#ffffff"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#ffffff" />
+
+        <Button
+            android:id="@+id/call_record_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:background="#00a6ac"
+            android:text="删除"
+            android:textColor="#ffffff"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/front"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        android:tag="front">
+
+        <CheckBox
+            android:id="@+id/memo_check"
+            android:layout_width="15dp"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/memo_checkbox"
+            android:checked="false"
+            android:button="@null" />
+
+
+        <TextView
+            android:id="@+id/memo_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/memo_check"
+            android:layout_marginTop="12dp"
+            android:text="语音备忘录"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/memo_date_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/memo_check"
+            android:layout_alignLeft="@id/memo_title"
+            android:layout_marginTop="8dp"
+            android:layout_below="@id/memo_title"
+            android:text="08-10 08:30"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/voice_long"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:text="34'"
+            android:textSize="10sp"
+            android:visibility="gone"/>
+
+        <ImageButton
+            android:id="@+id/btn_voice"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_toLeftOf="@id/voice_long"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/voice_long"
+            android:visibility="gone"
+            />
+    </RelativeLayout>
+
+
+
+</FrameLayout>

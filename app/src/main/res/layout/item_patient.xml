@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2013 47 Degrees, LLC
+  ~  http://47deg.com
+  ~  hello@47deg.com
+  ~
+  ~  Licensed under the Apache License, Version 2.0 (the "License");
+  ~  you may not use this file except in compliance with the License.
+  ~  You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~  Unless required by applicable law or agreed to in writing, software
+  ~  distributed under the License is distributed on an "AS IS" BASIS,
+  ~  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~  See the License for the specific language governing permissions and
+  ~  limitations under the License.
+-->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="80dp" >
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:layout_width="160dp"
+        android:layout_height="match_parent"
+        android:background="#1ec7c5"
+        android:orientation="horizontal"
+        android:tag="back" >
+
+        <Button
+            android:id="@+id/call_btn_patient"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:background="@drawable/calling" />
+
+        <Button
+            android:id="@+id/call_record_btn_patient"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:background="@drawable/call_record" />
+
+        <Button
+            android:id="@+id/base_info_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/base_info_btn"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/front"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#ffffff"
+        android:tag="front">
+
+        <ImageView
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/blue_shape"
+            android:layout_marginLeft="10dp"
+            android:visibility="gone"
+            android:id="@+id/imageView" />
+
+        <ImageView
+            android:id="@+id/patient_pic"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:background="@drawable/patient_pic_green"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/imageView" />
+
+        <TextView
+            android:id="@+id/patient_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/patient_pic"
+            android:text="黄小杰"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/sex_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/patient_name"
+            android:text="男"
+            android:textSize="10sp" />
+        <!-- android:background="@drawable/man_tip"-->
+
+        <TextView
+            android:id="@+id/patient_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/sex_tip"
+            android:text="45岁"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/patient_room_bed_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="15dp"
+            android:text="101-01床"
+            android:textSize="10sp"
+            android:textColor="#00a6ac"
+            android:layout_toRightOf="@id/patient_age"
+            android:layout_alignLeft="@+id/patient_check" />
+
+        <TextView
+            android:id="@+id/patient_in_hospital_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:text=""
+            android:textSize="10sp"
+            android:textColor="#00a6ac"
+            android:layout_alignTop="@+id/sex_tip"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/patient_hospital_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/patient_name"
+            android:layout_below="@id/patient_name"
+            android:layout_marginTop="3dp"
+            android:layout_toRightOf="@id/patient_pic"
+            android:text="二级护理"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/patient_cure_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/patient_pic"
+            android:layout_below="@id/patient_hospital_num"
+            android:text="诊断：煤工尘肺壹期  肺痿病"
+            android:textSize="10sp" />
+        <TextView
+            android:id="@+id/patient_to_doctor_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/patient_cure_detail"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_toRightOf="@id/patient_pic"
+            android:text="责任医师：王幸"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/patient_check"
+            android:layout_width="70dp"
+            android:layout_height="25dp"
+            android:background="@drawable/check_main_green"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:text="查 房"
+            android:textColor="#ffffff"
+            android:textSize="10sp"
+            android:layout_below="@id/patient_room_bed_num"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+</FrameLayout>

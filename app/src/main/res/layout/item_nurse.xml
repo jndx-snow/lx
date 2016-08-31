@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#1ec7c5"
+        android:orientation="horizontal"
+        android:tag="back">
+
+        <Button
+            android:id="@+id/call_btn_nurse"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="@drawable/celling" />
+
+        <Button
+            android:id="@+id/call_record_btn_nurse"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="@drawable/call_record" />
+    </LinearLayout>
+
+   <LinearLayout
+       android:id="@+id/front"
+       android:layout_width="match_parent"
+       android:layout_height="80dp"
+       android:background="#ffffff"
+       android:tag="front">
+    <ImageView 
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/nurse_photo"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center_vertical" />
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginLeft="12dp">
+        <TextView
+            android:id="@+id/nurse_name" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="赵薇薇"
+            android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/nurse_domain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="护士"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/nurse_worposition" 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="内科B区"
+                android:textSize="14sp" />
+    </LinearLayout>
+    <!--
+    <TextView 
+        android:id="@+id/nurse_last_call"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="8dp"
+        android:text="12:40  am"
+        android:textSize="8sp"
+        />-->
+	
+    <ImageButton
+        android:id="@+id/nurse_call"
+        android:layout_width="70dp"
+        android:layout_height="35dp"
+        android:background="@drawable/help"
+        android:layout_gravity="center"
+        android:layout_marginRight="5dp" />
+   </LinearLayout>
+</FrameLayout>

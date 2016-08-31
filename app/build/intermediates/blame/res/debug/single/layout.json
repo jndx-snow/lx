@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_advice_execute.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_advice_execute.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sub_add_memo.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_sub_add_memo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_memo.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_memo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_date_time_picker.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_date_time_picker.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_check.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_check.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_note.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_note.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_patient.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_patient.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sub_add_note.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_sub_add_note.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_patient_list.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_patient_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_note_add.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_note_add.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_head.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_head.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nurse_list.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_nurse_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_sort.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\popupwindow_sort.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_advice.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_advice.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_nurse.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_nurse.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_sift.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\popupwindow_sift.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_advice_left.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_advice_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baseinfo.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_baseinfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_data.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_add_data.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient_detail.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_patient_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_time.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_add_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_detail.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\message_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_advice_right.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_advice_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_note.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sub_detail_note.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_sub_detail_note.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callpage.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_callpage.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_advice_left.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\item_advice_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindowleft.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\popupwindowleft.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_memo.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_memo.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sign.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_sign.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_logout.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_logout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_advice_ensure.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_advice_ensure.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_memo_speak.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\dialog_memo_speak.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_advice_right.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\fragment_advice_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callrecord.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_callrecord.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\Android\\workspace\\Care\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    }
+]

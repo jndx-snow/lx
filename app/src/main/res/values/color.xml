@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <color name="result_view">#b0000000</color>
+      <color name="viewfinder_mask">#60000000</color>
+      <color name="possible_result_points">#c0ffff00</color>
+    <color name="ll_left">#00a6ac</color>
+    <color name="name_advice_left">#ffffff</color>
+    <color name="ll_right">#ff4157</color>
+    <color name="gray">#b5bdc2</color>
+</resources>
